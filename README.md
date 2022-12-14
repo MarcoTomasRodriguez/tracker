@@ -55,9 +55,9 @@ As the institution didn't have the required tools to assemble it, the National I
 The device contains 35 components of different sizes, the smallest among them being the 0402 capacitors and inductors for the RF circuits, which were specially hard to place and assemble.
 
 <div>
-<img src="assets/Placing_Components_1.jpg" height="500" />
-<img src="assets/Placing_Components_2.jpg" height="500" />
-<img src="assets/Placing_Components_3.jpg" height="500" />
+<img src="assets/Placing_Components_1.jpg" height="400" />
+<img src="assets/Placing_Components_2.jpg" height="400" />
+<img src="assets/Placing_Components_3.jpg" height="400" />
 </div>
 
 ## Inspection
