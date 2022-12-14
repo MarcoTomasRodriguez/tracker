@@ -76,5 +76,7 @@ The core temperature was measured to prevent reaching a critical point.
 
 ## Results
 
+<div>
 <img src="assets/PCB_3D_Front.png" height="500" />
 <img src="assets/Result.jpg" height="500" />
+</div>
