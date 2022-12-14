@@ -18,6 +18,7 @@ academical project.
 
 ## Design
 
+This 4-layer PCB with controlled impedance includes:
 - LTE Antenna + Switch: Integrated / External
 - GNSS Antenna + Switch: Integrated / External
 - GNSS Low-noise Amplifier (LNA)
