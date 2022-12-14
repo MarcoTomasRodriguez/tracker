@@ -66,7 +66,6 @@ After applying the solder paste and once all the components were placed, the boa
 
 <img src="assets/Verification.jpg" />
 
-
 ## Soldering
 
 After the inspection, the board was soldered using a hot plate soldering station and a heat gun.
@@ -74,3 +73,8 @@ The core temperature was measured to prevent reaching a critical point.
 
 <img src="assets/Soldering_1.jpg" />
 <img src="assets/Heat.jpg" />
+
+## Results
+
+<img src="assets/PCB_3D_Front.png" height="500" />
+<img src="assets/Result.jpg" height="500" />
