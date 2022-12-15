@@ -1,4 +1,17 @@
-# Tracker
+<div id="top"></div>
+
+<div align="center">
+  <a href="https://github.com/MarcoTomasRodriguez/tracker">
+    <img src="https://avatars.githubusercontent.com/u/112263007?s=400&u=257ee071b7034c0ba75840a0523d58cda98f35d7&v=4" alt="Logo" width="100" height="100">
+  </a>
+  <h2 align="center">Tracker</h2>
+  <p align="center">
+    A flexible, cost-effective, and low-power IoT device with integrated GNSS & LTE connectivity.
+    <br />
+    <br />
+  </p>
+</div>
+
 
 Thinking Minds Tracker is a flexible, cost-effective, and low-power IoT device with integrated GNSS & LTE
 connectivity, whose purpose is to make the latest IoT technology available where it is required, which for
@@ -76,6 +89,8 @@ The core temperature was measured to prevent reaching a critical point.
 <img src="assets/Heat.jpg" />
 
 ## Results
+
+The resulting product was successfully assembled and worked as expected. Currently it is being tested on field.
 
 <div>
 <img src="assets/PCB_3D_Front.png" height="500" />
