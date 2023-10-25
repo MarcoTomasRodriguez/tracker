@@ -62,8 +62,6 @@ The components were bought at Digi-Key Electronics, altough they arrived on time
 
 As the institution didn't have the required tools to assemble it, the National Institute of Industrial Technology (INTI) allowed the assembly to be done in their laboratories.
 
-<img src="assets/INTI.jpg" />
-
 ## Component Placement
 
 The device contains 35 components of different sizes, the smallest among them being the 0402 capacitors and inductors for the RF circuits, which were specially hard to place and assemble.
